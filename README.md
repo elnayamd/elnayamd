@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 ![Logo](https://github.com/user-attachments/assets/4739c40a-d408-4c21-bd07-bdedda2948d5)
 
